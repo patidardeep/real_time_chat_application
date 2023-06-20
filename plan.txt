@@ -1,0 +1,9 @@
+Create NPM projecct 
+create index, css js files
+install dependencies, express, nodemon(dev dep.)
+create a expres server(server.js)
+do frontend part
+install socket.io,Setup socket.io in server.js and client client.js
+client send message logic in clinet.js
+Recieve message on server and broadcast to all client 
+Recieve message on client and display it .scrollToBotton etc...
